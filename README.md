@@ -25,7 +25,7 @@ SQLite – Lightweight database
 **Setup Instructions**
 
 1️⃣ Clone the repository
-git clone ""
+git clone "https://github.com/nanditasingh12/Flask-To-Do-API-CRUD-OPERATIONS-.git"
 cd flask-todo-api
 
 2️⃣ Create and activate virtual environment
